@@ -1,7 +1,7 @@
 {
-  "name": "Boston Travels",
+  "name": "Travlr",
   "version": "1.0.0",
-  "description": "Boston Travels Website",
+  "description": "Travlr Travel Website",
   "main": "app.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
