@@ -10,3 +10,5 @@ open new terminal,
 Run 'cd backend'
 then, npm install
 then, node app.js
+
+Preview --> https://itstravlr.web.app/
