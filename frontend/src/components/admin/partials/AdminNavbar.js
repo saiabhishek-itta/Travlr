@@ -53,7 +53,7 @@ const AdminNavbar = (props) => {
               style={{ letterSpacing: "0.10rem" }}
               className="flex items-left text-center font-bold uppercase text-gray-800 text-2xl cursor-pointer px-2 text-center"
             >
-              Boston Travels
+              Travlr
             </span>
           </div>
           <div
@@ -61,7 +61,7 @@ const AdminNavbar = (props) => {
             style={{ letterSpacing: "0.70rem" }}
             className="hidden lg:block flex items-left col-span-1 text-center text-gray-800 font-bold tracking-widest uppercase text-2xl cursor-pointer"
           >
-            Boston Travels
+            Travlr
           </div>
           <div className="hidden lg:block col-span-1 flex text-gray-600 mt-1">
             <span

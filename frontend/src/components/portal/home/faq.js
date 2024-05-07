@@ -52,7 +52,7 @@ In recent years, the top travel vendors have empowered and trained the agency co
     <div id="collapseThreeY" class="accordion-collapse collapse" aria-labelledby="headingThreeY"
       data-mdb-parent="#accordionExampleY">
       <div class="accordion-body">
-        <strong>Boston Travels a Direct Travel Company is extremely cautious when it comes to choosing our business partners and vendors. This vetting of travel suppliers and support of the ‘good ones’ over the past 50+ years has given us preferred access to the world’s top trusted suppliers. In turn, they trust us to represent and care for the reputations they have earned over the years and to deliver the same high standard of care to our mutual clients.
+        <strong>Travlr a Direct Travel Company is extremely cautious when it comes to choosing our business partners and vendors. This vetting of travel suppliers and support of the ‘good ones’ over the past 50+ years has given us preferred access to the world’s top trusted suppliers. In turn, they trust us to represent and care for the reputations they have earned over the years and to deliver the same high standard of care to our mutual clients.
 
 </strong>
       </div>

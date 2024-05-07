@@ -38,7 +38,7 @@ https://www.instagram.com/' className='me-4 text-reset'>
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3" />
-                Boston Travels
+                Travlr
               </h6>
               <p>
               We believe that there is a better way to provide travel packages. Establised in early 2000s, we curate customised packages to people who need a breeze in their life. We are a team of 50, working tirelessly to provide you the best travel options.
@@ -108,7 +108,7 @@ https://www.instagram.com/' className='me-4 text-reset'>
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                contactus@bostontravels.com
+                contactus@Travlr.com
               </p>
               <p>
                 <MDBIcon icon="phone" className="me-3" /> + 01 234 567 88
@@ -122,9 +122,20 @@ https://www.instagram.com/' className='me-4 text-reset'>
       </section>
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-        © 2022 Copyright Boston Travels
-        
+        <p>© 2022 Copyright Travlr</p>
+        <span>Regards,</span>
+        <a href="https://ittasai.web.app" className="logo">Sai Abhishek</a>
+        <span>❤️</span>
+        <p>
+          This Website is developed using MERN Stack
+        </p>
       </div>
+
+   
+      
+
+      
+
     </MDBFooter>
   );
 }
