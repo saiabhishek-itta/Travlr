@@ -122,7 +122,7 @@ https://www.instagram.com/' className='me-4 text-reset'>
       </section>
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-        <p>© 2022 Copyright Travlr</p>
+        <p>© 2023 Copyright Travlr</p>
         <span>Regards,</span>
         <a href="https://ittasai.web.app" className="logo">Sai Abhishek</a>
         <span>❤️</span>
@@ -130,11 +130,6 @@ https://www.instagram.com/' className='me-4 text-reset'>
           This Website is developed using MERN Stack
         </p>
       </div>
-
-   
-      
-
-      
 
     </MDBFooter>
   );

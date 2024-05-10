@@ -122,7 +122,7 @@ https://www.instagram.com/' className='me-4 text-reset'>
       </section>
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-        © 2022 Copyright Travlr
+        © 2023 Copyright Travlr
         
       </div>
     </MDBFooter>
