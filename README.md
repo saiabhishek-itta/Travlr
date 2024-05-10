@@ -12,3 +12,4 @@ then, npm install
 then, node app.js
 
 Preview --> https://itstravlr.web.app/
+As the site is hosted in a free service, its taking a minute to setup backend after certain inactivity, patience appreciated!🙃 
