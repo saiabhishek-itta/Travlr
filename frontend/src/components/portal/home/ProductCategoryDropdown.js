@@ -41,8 +41,12 @@ const CategoryList = () => {
                   }
                   className="col-span-1 m-2 flex flex-col items-center justify-center space-y-2 cursor-pointer"
                 >
-                  <img
+                  {/*<img
                     className="imag" src={`${apiURL}/uploads/categories/${item.cImage}`}
+                    alt="pic"
+                  />*/}
+                  <img
+                    className="imag" src={`https://source.unsplash.com/random`}
                     alt="pic"
                   />
                   <div className="font-medium">{item.cName}</div>

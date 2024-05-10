@@ -75,8 +75,12 @@ const SingleProduct = (props) => {
                   }
                   className="col-span-1 m-2 flex flex-col items-center justify-center space-y-2 cursor-pointer"
                 >
-                  <img
+                  {/*<img
                     className="imag" src={`${apiURL}/uploads/products/${item.pImages[0]}`}
+                    alt="pic"
+                  />*/}
+                  <img
+                    className="imag" src={`https://source.unsplash.com/random`}
                     alt="pic"
                   />
                 <div className="flex items-center justify-between mt-2">
